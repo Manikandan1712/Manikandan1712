@@ -215,7 +215,7 @@ public class Manikandan {
   &nbsp;
   <a href="https://github.com/manikandan1712"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://manikandan1712.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 </a>
 </div>
