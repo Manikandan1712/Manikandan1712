@@ -155,9 +155,9 @@ public class Manikandan {
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| **[CBSoft – Children Believe](https://github.com/mknanda50)** | ASP.NET MVC · C# · SQL Server · jQuery · AJAX | Multi-country charity & donor management system; role-based access for Global/Country/Partner Admins; AJAX-driven donation filtering; optimised stored procedures for large datasets |
-| **[Doctor Application](https://github.com/mknanda50)** | FlutterFlow · Custom Actions | Mobile app with PDF generation for prescriptions, lab test results & vaccine records; built with custom FlutterFlow actions |
-| **[TVS Supply Chain – Inventory System](https://github.com/mknanda50)** | React · JavaScript | FIFO inventory correlation engine mapping inward/outward items; maintains full historical stock movement audit trail |
+| **[CBSoft – Children Believe]** | ASP.NET MVC · C# · SQL Server · jQuery · AJAX | Multi-country charity & donor management system; role-based access for Global/Country/Partner Admins; AJAX-driven donation filtering; optimised stored procedures for large datasets |
+| **[Doctor Application]** | FlutterFlow · Custom Actions | Mobile app with PDF generation for prescriptions, lab test results & vaccine records; built with custom FlutterFlow actions |
+| **[TVS Supply Chain – Inventory System]** | React · JavaScript | FIFO inventory correlation engine mapping inward/outward items; maintains full historical stock movement audit trail |
 
 </div>
 
@@ -214,6 +214,8 @@ public class Manikandan {
   <a href="https://www.linkedin.com/in/mani-kandan-b349a0208"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/manikandan1712"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://manikandan1712.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
